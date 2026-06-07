@@ -21,6 +21,7 @@ app.command("/mhdsb-ping", async ({ command, ack, respond }) => {
   console.log("bot is running!");
 })();
 
+
 app.command("/mhdsb-help", async ({ ack, respond }) => {
   await ack();
   await respond({
