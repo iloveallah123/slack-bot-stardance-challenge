@@ -12,7 +12,7 @@ Try it here in the stardance slack workspace:
 https://app.slack.com/client/E09V59WQY1E/C0APH2MMHH7
 <br>
 <br>
-To use it, click the link and join the slack workspace Then in any channel you can use this command:
+To use it, click the link and join the slack workspace. Then in any channel you can use this command:
 <br>
 <br>
 /mhdsb-help
